@@ -36,7 +36,7 @@ $query3 = mysqli_query($conn,$q3);
 				<th><h5>ADDRESS</h5></th>
 				<th><h5>PHONE</h5></th>
 			</tr>
-<?php
+<?php 
 while ($res=mysqli_fetch_array($query)) {
 ?>
 			<tr>
