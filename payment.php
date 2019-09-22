@@ -13,7 +13,7 @@
 
 <div class="col-lg-6 m-auto">
 	
-	<form method="post" >
+	<form  >
 		<br><div>
 			<div class="card-header bg-dark">
 				<h4 class="text-white text-center">PAYMENT DETAILS</h4>
