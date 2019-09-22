@@ -36,7 +36,7 @@
 			<div class="row">
 			<div class="col-md-6">
 			<label>ADDRESS</label><input type="text" name="ADDRESS" class="form-control" required>
-			</div>
+				</div>
 			<div class="col-md-6">
 			<label>TREK LOCATION</label>
 			<br>
