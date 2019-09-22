@@ -36,7 +36,7 @@ while ($res=mysqli_fetch_array($query)) {
 				<th><?php echo $res['REVIEW'] ?></th>
 			</tr>
 <?php }
-?>
+?> 
 
 	
 		</table>
